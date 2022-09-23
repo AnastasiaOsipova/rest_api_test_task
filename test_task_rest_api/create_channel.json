@@ -1,0 +1,12 @@
+{
+  "name": "string",
+  "subOrgOguid": "1eaebe5e-6e56-4fa6-b5b4-f78414613a5a",
+  "documentType": "NONFORMALIZED",
+  "fields": {
+    "filename": "name",
+    "direction": null
+  },
+  "constraintViolationOguid": "4856ffcf-56b7-4975-962f-fd45394d3be7",
+  "initiatorOguid": "5e71ef9a-aa14-4eca-95b8-3a3ebfbcdb8a",
+  "status": "DISABLED"
+}
